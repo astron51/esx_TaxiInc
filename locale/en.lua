@@ -1,0 +1,23 @@
+Locales['en'] = {
+    ['suggest_request'] = 'Request for a Taxi',
+    ['suggest_cancel'] = 'Cancel the Taxi',
+    ['request_too_fast'] = 'Slow down! try request again later.',
+    ['request_wait'] = 'A driver have been dispatched to your location, please hold.',
+    ['request_success'] = 'A driver is on his way to your location.',
+    ['request_fail_spawn_ofov'] = 'Sorry man, I can\'t send you any driver now, try again later!',
+    ['request_fail_tts'] = 'We can\'t send you any driver now, try again later!',
+    ['cancel_success'] = 'The taxi was cancelled.',
+    ['cancel_fail'] = 'Can\'t cancel the taxis now.',
+    ['cancel_false'] = 'You didn\'t request any taxi.',
+    ['cancel_taxidestroyed'] = 'Taxi was destroyed',
+    ['cancel_driver_interrupt'] = 'Taxi was cancelled, driver is being interupted',
+    ['cancel_outoffuel'] = 'Taxi run out of fuel.',
+    ['cancel_walkaway'] = 'Taxi was cancelled, you walked away',
+    ['cancel_jumpoff'] = 'Taxi was cancelled, you leave the vehicle.',
+    ['await_placeway'] = 'Place a waypoint in your map to begin.',
+    ['await_success'] = 'Alright, let\'s go.',
+    ['trip_changedDesti'] = 'You changed your mind? Alright.',
+    ['trip_sonic_promp'] = 'Press ~INPUT_PICKUP~ to go faster for more expensive fare.',
+    ['trip_sonic_confirm'] = 'Go faster? Okay boss.',
+    ['pay_msg'] = 'That will be $%.2f, thank you!'
+}
